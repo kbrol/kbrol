@@ -1,0 +1,17 @@
+exports.suma = function (item1, item2) {
+  return item1 + item2;
+};
+
+exports.resta = function (item1, item2) {
+  return item1 - item2;
+};
+
+exports.division = function (item1, item2) {
+  return item1 / item2;
+};
+
+exports.multiplicacion = function (item1, item2) {
+  return item1 * item2;
+};
+
+
